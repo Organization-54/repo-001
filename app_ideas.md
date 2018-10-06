@@ -68,7 +68,10 @@
         * Suggest when to work on tasks and display that in calendar
 
 * On Demand Car Wash
-    * Contact a user who wants to wash your car 
-    * Ratings for car washers
-    * Washers can set their own prices
-    * Mutually established meeting place
+    * Washer page
+        * Ratings for car washers
+        * Washers can set their own prices
+    * Contact page
+        * Chat feature?
+        * Can agree on where and how to meet
+        * Mutually established meeting place
