@@ -94,8 +94,8 @@ An app that will allow users to search for other people attending events.
 ---
 
 ## Wireframes
-// TODO: Add Wireframe Images
-
+<img src="https://github.com/Organization-54/repo-001/blob/master/Carouser.png" width=200>
+<img src="https://github.com/Organization-54/repo-001/blob/master/Carouser.gif" width=200>
 ---
 
 ## App Pitch Presentation
