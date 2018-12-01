@@ -88,7 +88,7 @@ An app that will allow users to search for other people attending events.
  * People
      * Messaging
  * Messaging
-     * Ext. Profile
+     * Chat page
  * My events
      * Create/Publish events
 ---
