@@ -99,4 +99,4 @@ An app that will allow users to search for other people attending events.
 ---
 
 ## App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/1iJGXjbE1TicZWGrpuUHNeopQYMey153wwJGRmnMPUK4/edit?usp=sharing
